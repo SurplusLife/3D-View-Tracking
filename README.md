@@ -17,11 +17,11 @@ This code is still incomplete and will continue to be updated. And this source i
 
 
 <OS/Library>
-  Windows 10
-  Visual Studio 2015
-  Kinect for Windows SDK 2.0
-  cuda 9.0
-  cudnn 7.1
+Windows 10
+Visual Studio 2015
+Kinect for Windows SDK 2.0
+cuda 9.0
+cudnn 7.1
   
 <How to install>
   (1) Download and install Kinect for Windows SDK 2.0
