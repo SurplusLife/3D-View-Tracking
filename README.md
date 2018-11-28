@@ -7,7 +7,7 @@ use Darknet(https://github.com/MarekKowalski/LiveScan3D).
 
 This code is still incomplete and will continue to be updated. And this source is a test version for uploading the repository, and I will optimize the source and upload it again by early December.
 
-<OS/Library>
+(OS/Library)
 - Windows 10
 - Visual Studio 2015
 - Kinect for Windows SDK 2.0
@@ -15,7 +15,7 @@ This code is still incomplete and will continue to be updated. And this source i
 - cudnn 7.1
  
  
-<How to install>
+(How to install)
  (1) Download and install Kinect for Windows SDK 2.0
  (2) Download and install cuda 9.0
  (3) Download and install cudnn 7.1 for cuda 9.0
