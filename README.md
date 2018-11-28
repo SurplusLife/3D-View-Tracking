@@ -8,7 +8,7 @@ use Darknet(https://github.com/MarekKowalski/LiveScan3D).
 This code is still incomplete and will continue to be updated. And this source is a test version for uploading the repository, and I will optimize the source and upload it again by early December.
 
 <div>
-<img width = "200" src="https://user-images.githubusercontent.com/44374139/49153135-395f0400-f358-11e8-952f-1aeac4da7957.jpg">
+<img width = "800" src="https://user-images.githubusercontent.com/44374139/49153135-395f0400-f358-11e8-952f-1aeac4da7957.jpg">
 </div>
 
 (OS/Library)
