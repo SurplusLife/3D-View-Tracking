@@ -5,7 +5,7 @@ Multiple RGB-D Camera-based User Intent Position and Object Estimation
 This source has been developed based on LiveScan3D(https://github.com/AlexeyAB/darknet) and 
 use Darknet(https://github.com/MarekKowalski/LiveScan3D).
 
-This code is still incomplete and will continue to be updated. And this source is a test version for uploading the repository, and I will optimize the source and upload it again by February.(I am sorry that the upload schedule has been delayed. I am searching how to upload a large files.) 
+This code is still incomplete and will continue to be updated. And this source is a test version for uploading the repository, and I will optimize the source and upload it again.
 
 <div>
 <img width = "700" src="https://user-images.githubusercontent.com/44374139/49153135-395f0400-f358-11e8-952f-1aeac4da7957.jpg">
@@ -24,4 +24,4 @@ This code is still incomplete and will continue to be updated. And this source i
 - 3.Download and install cudnn 7.1 for cuda 9.0
 - 4.Run the project in package after connecting Kinect V2 => How to use of this project is the same as LiveScan3D.
 
-test
+
