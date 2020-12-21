@@ -24,4 +24,5 @@ This code is still incomplete and will continue to be updated. And this source i
 - 3.Download and install cudnn 7.1 for cuda 9.0
 - 4.Run the project in package after connecting Kinect V2 => How to use of this project is the same as LiveScan3D.
 
-update README
+README 업데이트
+update application
